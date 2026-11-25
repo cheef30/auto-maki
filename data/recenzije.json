@@ -1,0 +1,8 @@
+{
+  "_napomena": "Upiši 3 prave recenzije sa Google profila (ime kako piše na Google-u i tekst bez izmena). Prazna polja se ne prikazuju na sajtu.",
+  "recenzije": [
+    { "ime": "", "tekst": "" },
+    { "ime": "", "tekst": "" },
+    { "ime": "", "tekst": "" }
+  ]
+}

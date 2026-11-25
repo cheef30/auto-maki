@@ -1,0 +1,21 @@
+# Auto Maki, Vranje
+
+> Auto plac u Vranju (Srbija) sa pet usluga na jednoj adresi: prodaja polovnih vozila, dovoz vozila iz inostranstva, šlep služba, samouslužna autoperionica i rent a car.
+
+- Adresa: Partizanski put 70, 17000 Vranje, Srbija
+- Telefon, WhatsApp i Viber: 063 828 0780 (+381638280780)
+- Radno vreme (prema Google mapama): Otvoreno 24 sata
+- Google ocena: 4,4 od 5 (110 recenzija)
+- Cene usluga se ne objavljuju na sajtu; dobijaju se telefonom.
+
+## Usluge
+
+- [Polovni automobili](https://cheef30.github.io/auto-maki/vozila.html): ponuda vozila na placu, sa filterima po marki, ceni, godištu, gorivu i menjaču. Podaci o vozilima su u [data/vozila.json](https://cheef30.github.io/auto-maki/data/vozila.json).
+- [Dovoz vozila iz inostranstva](https://cheef30.github.io/auto-maki/dovoz-vozila.html): kupac javlja koji auto traži, Auto Maki ga pronalazi i dovozi do Vranja.
+- [Šlep služba](https://cheef30.github.io/auto-maki/slep-sluzba.html): vuča vozila u Vranju, poziv na 063 828 0780.
+- [Samouslužna autoperionica](https://cheef30.github.io/auto-maki/autoperionica.html): boksovi za samostalno pranje na istoj adresi.
+- [Rent a car](https://cheef30.github.io/auto-maki/rent-a-car.html): iznajmljivanje automobila, upit sa datumima preko WhatsApp-a.
+
+## Kontakt
+
+- [Kontakt i mapa](https://cheef30.github.io/auto-maki/kontakt.html)

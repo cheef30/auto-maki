@@ -1,0 +1,50 @@
+{
+  "naziv": "AUTO MAKI",
+  "naziv_tekst": "Auto Maki",
+  "adresa": "Partizanski put 70",
+  "grad": "Vranje",
+  "postanski_broj": "17000",
+  "drzava": "RS",
+  "telefon_prikaz": "063 828 0780",
+  "telefon_link": "+381638280780",
+  "whatsapp_broj": "381638280780",
+  "radno_vreme": "Otvoreno 24 sata",
+  "radno_vreme_napomena": "TODO: potvrditi sa klijentom (preuzeto sa Google mapa; važi li za sve usluge ili samo za šlep i perionicu?)",
+  "google_ocena": 4.4,
+  "google_broj_recenzija": 110,
+  "google_ocena_napomena": "Stanje na Google mapama u trenutku izrade. Ažurirati pre puštanja.",
+  "google_profil_url": "https://www.google.com/maps/search/?api=1&query=AUTO+MAKI+Partizanski+put+70+Vranje",
+  "google_profil_napomena": "TODO: potvrditi sa klijentom, zameniti tačnim linkom ka Google profilu (Podeli → Kopiraj link)",
+  "mapa_embed": "https://www.google.com/maps?q=AUTO%20MAKI%2C%20Partizanski%20put%2070%2C%20Vranje&output=embed",
+  "polovni_profil_url": "",
+  "polovni_profil_napomena": "TODO: potvrditi sa klijentom, link ka profilu prodavca na polovniautomobili.com",
+  "sajt_url": "https://cheef30.github.io/auto-maki/",
+  "sajt_url_napomena": "TODO: potvrditi sa klijentom, pravi domen (npr. automaki.rs). Posle promene pokrenuti: node alati/generisi.mjs",
+  "email": "TODO: potvrditi sa klijentom",
+  "facebook": "TODO: potvrditi sa klijentom",
+  "instagram": "TODO: potvrditi sa klijentom",
+  "godina_osnivanja": "TODO: potvrditi sa klijentom",
+  "slep": {
+    "dostupnost": "Dostupni 24h",
+    "dostupnost_napomena": "TODO: potvrditi sa klijentom (preuzeto iz radnog vremena na Google mapama)",
+    "podrucje": "TODO: potvrditi sa klijentom (samo Vranje i okolina, ili i duže relacije?)",
+    "cena": "TODO: potvrditi sa klijentom. Na sajtu: „Pozovite za cenu”"
+  },
+  "perionica": {
+    "broj_boksova": "TODO: potvrditi sa klijentom",
+    "nacin_placanja": "TODO: potvrditi sa klijentom (kovanice, žetoni, kartica?)",
+    "radno_vreme": "TODO: potvrditi sa klijentom",
+    "cena": "TODO: potvrditi sa klijentom. Na sajtu: „Pitajte za cenu”"
+  },
+  "rent": {
+    "uslovi": "TODO: potvrditi sa klijentom (depozit, minimalne godine vozača, potrebna dokumenta, kilometraža)",
+    "cene": "TODO: potvrditi sa klijentom. Na sajtu: „Pozovite za cenu”"
+  },
+  "dovoz": {
+    "zemlje": "TODO: potvrditi sa klijentom (iz kojih zemalja najčešće dovoze)",
+    "rok": "TODO: potvrditi sa klijentom",
+    "sta_je_ukljuceno": "TODO: potvrditi sa klijentom (carinjenje, homologacija, registracija?)"
+  },
+  "prodavac": "Marjan",
+  "prodavac_napomena": "Ime iz Google recenzija. TODO: potvrditi da je u redu da se pominje na sajtu."
+}

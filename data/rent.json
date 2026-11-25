@@ -1,0 +1,35 @@
+[
+  {
+    "id": "toyota-corolla",
+    "primer": true,
+    "naziv": "Toyota Corolla",
+    "klasa": "Limuzina",
+    "gorivo": "Hibrid",
+    "menjac": "Automatski",
+    "sedista": 5,
+    "slika": "rent-toyota-corolla",
+    "cena_dan": null
+  },
+  {
+    "id": "toyota-camry",
+    "primer": true,
+    "naziv": "Toyota Camry",
+    "klasa": "Limuzina",
+    "gorivo": "Hibrid",
+    "menjac": "Automatski",
+    "sedista": 5,
+    "slika": "rent-toyota-camry",
+    "cena_dan": null
+  },
+  {
+    "id": "toyota-rav4",
+    "primer": true,
+    "naziv": "Toyota RAV4",
+    "klasa": "Džip/SUV",
+    "gorivo": "Hibrid",
+    "menjac": "Automatski",
+    "sedista": 5,
+    "slika": "rent-toyota-rav4",
+    "cena_dan": null
+  }
+]

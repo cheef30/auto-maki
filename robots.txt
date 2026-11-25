@@ -1,0 +1,19 @@
+# Auto Maki: pretraživači i AI asistenti su dobrodošli
+User-agent: *
+Allow: /
+Disallow: /alati/
+Disallow: /slike/izvorno/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://cheef30.github.io/auto-maki/sitemap.xml
